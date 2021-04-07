@@ -5,5 +5,5 @@ Select a restaurant:
 ## [Tanoreen](https://tanoreen.com/)
 ## [The Family Store](http://familystorecooks.com/)
 ---
-Back to European  
-Start Over
+[Back to European](european)
+[Start Over](../home.md)
